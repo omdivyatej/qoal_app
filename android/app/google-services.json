@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "350967564087",
+    "project_id": "mazedapphackathon",
+    "storage_bucket": "mazedapphackathon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350967564087:android:621bc07fcae2050120fcb2",
+        "android_client_info": {
+          "package_name": "com.example.qoal_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "350967564087-jsd8440a1vd2csgg33qugr44gcqu31qr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBs44Xw4obEDu-jj204lTM4JsiSYbxdczM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "350967564087-jsd8440a1vd2csgg33qugr44gcqu31qr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
